@@ -45,6 +45,7 @@
 <p>
 This is the second line to be added
 </p>
+<p> MY THIRD LINE </p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
